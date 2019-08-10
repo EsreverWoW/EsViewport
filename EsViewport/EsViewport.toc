@@ -1,0 +1,8 @@
+## Interface: 11302
+## Title: EsViewport
+## Author: Es (EsreverWoW)
+## Version: 1.0
+## Notes: A no-frills viewport addon for WoW Classic.
+## SavedVariablesPerCharacter: EsViewport_Options
+
+EsViewport.lua
